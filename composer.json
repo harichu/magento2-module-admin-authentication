@@ -1,5 +1,5 @@
 {
-    "name": "fredden/magento2-module-admin-authentication",
+    "name": "harichu/magento2-module-admin-authentication",
     "description": "A Magento 2 module that allows access to Magento admin via Fredden Auth Portal",
     "license": "CC-BY-NC-SA-4.0",
     "type": "magento2-module",
@@ -9,7 +9,7 @@
             "email": "dan@wallis.nz"
         }
     ],
-    "homepage": "https://github.com/fredden/magento2-module-admin-authentication",
+    "homepage": "https://github.com/harichu/magento2-module-admin-authentication",
     "require": {
         "php": "~8.2.0 || ~8.3.0",
         "ext-json": "*",
