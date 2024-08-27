@@ -19,7 +19,6 @@
         "magento/module-backend": "^101.0 || ^102.0",
         "magento/module-captcha": "^100.0.2",
         "magento/module-config": "^101.0",
-        "magento/module-two-factor-auth": "^1.0",
         "magento/module-user": "^101.0"
     },
     "require-dev": {
